@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+
+## Smell my farts haha
+
 from Tkinter import *
 import tkFileDialog
 
