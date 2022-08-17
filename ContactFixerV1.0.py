@@ -4,6 +4,7 @@
 
 ## Smell my farts haha
 ## You re gay
+## Fuck you
 
 from Tkinter import *
 import tkFileDialog
